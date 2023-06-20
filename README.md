@@ -4,7 +4,7 @@
 ## Overview
 
 #### - Whats difference with Official Template?
-#### - Just add NVMe Self-Test Item and Trigger.
+#### - Just added NVMe Self-Test Item and Trigger.
 
 For Zabbix version: 6.2 and higher  
 The template for monitoring S.M.A.R.T. attributes of physical disk that works without any external scripts.
